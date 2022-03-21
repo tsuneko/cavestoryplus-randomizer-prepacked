@@ -10,3 +10,7 @@ Ensure that [Python3](https://www.python.org/downloads/) is installed.
 # Usage
 
 Run `randomizer_csplus.py` and follow the instructions.
+
+To prevent randomization of tilesets and/or player sprite, edit these variables to be False:
+`enable_random_tileset = True`
+`enable_random_sprite = True`
