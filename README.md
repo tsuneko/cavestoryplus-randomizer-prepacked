@@ -20,3 +20,5 @@ Run `randomizer_csplus.py` and follow the instructions.
 To prevent randomization of tilesets and/or player sprite, edit these variables to be `False`:
 - `enable_random_tileset = True`
 - `enable_random_sprite = True`
+
+Randomizer is only able to use the "New" tilesets, most likely due to a limitation related to CS+ modding.
