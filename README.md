@@ -4,7 +4,8 @@ Working pre-packaged copy of duncathan's cave-story-randomizer, and Kaitlyn's CS
 # Installation
 
 Extract latest release into `CaveStory+\data\`
-Ensure that Python3 is installed.
+
+Ensure that [Python3](https://www.python.org/downloads/) is installed.
 
 # Usage
 
