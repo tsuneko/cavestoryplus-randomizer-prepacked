@@ -5,9 +5,11 @@ All provided files belong to their respective owners and I do not claim any righ
 
 This mod package has been created purely for ease of access, since CS+ is not officially supported by the randomizer mod.
 
+This mod package utilises Windows binaries provided by duncathan's CSR. Since CSR is written for the Love2D engine, it may be possible to port it to Mac/Linux by unpacking the .exe as a .zip and re-compiling for the respective platform. See this [page](https://love2d.org/wiki/Game_Distribution) for more information. The provided python script should be platform-independent.
+
 # Installation
 
-Extract latest release into `CaveStory+\data\`
+Extract latest [release](https://github.com/tsuneko/cavestoryplus-randomizer-prepacked/files/8318636/cavestoryplus-randomizer-prepacked.zip) into `CaveStory+\data\`
 
 Ensure that [Python3](https://www.python.org/downloads/) is installed.
 
